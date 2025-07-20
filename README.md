@@ -97,7 +97,7 @@ This project is licensed under the [MIT](LICENSE) License.
 ## Contact Developer  
     Email: sammashtizadeh@gmail.com 
     Telegram: https://t.me/samira_star_dev
-🔗 GitHub Account: [sorna-fast](https://github.com/samira-dev-star)
+🔗 GitHub Account: [samira-dev-star](https://github.com/samira-dev-star)
 
 ---
 
